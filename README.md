@@ -1,6 +1,4 @@
-# FUTURE_DS_01
-
-📊Business Sales Performace Analytics
+#📊Business Sales Performace Analytics
 
 Hi! 👋 This is one of my first Power BI dashboard projects that I built while learning Data Analytics so this project is part of my journey to understand real‑world data better.
 
