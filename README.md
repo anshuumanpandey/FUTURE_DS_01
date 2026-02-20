@@ -16,13 +16,13 @@ Where should a business focus to grow more? 📈
 
 
 
-🛠️ Tools I Used
+##🛠️ Tools I Used
 
 📊 Power BI Desktop
 
 📁 Excel / CSV dataset
 
-🎯 KPIs (Key Performance Indicators)
+##🎯 KPIs (Key Performance Indicators)
 
 KPIs are like the scoreboard of a business. They quickly show how things are going.
 
@@ -88,7 +88,7 @@ Helps businesses focus on best‑selling items.
 Shows which category gives the most profit.
 Because high sales does not always mean high profit.
 
-🧠 Insights I Found
+##🧠 Insights I Found
 
 From this dashboard I noticed things like:
 
@@ -102,7 +102,7 @@ Sales increase during special seasons 🎊
 
 These insights help businesses take better decisions.
 
-🌟 What I Learned From This Project
+##🌟 What I Learned From This Project
 
 Cleaning and preparing data
 
@@ -118,6 +118,6 @@ Understanding business insights from data
 
 
 
-Thank You
+#Thank You
 
 More dashboards coming soon 🚀
